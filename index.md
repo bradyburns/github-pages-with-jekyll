@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "God of War Fan Guide"
 ---
 
-I'm glad you are here. I plan to talk about ...
+God of War fan-made guide under progress...
